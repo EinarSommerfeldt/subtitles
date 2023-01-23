@@ -1,3 +1,3 @@
 # subtitles
-code for editing subtitles
-as of now makes subtitles appear on screen for longer
+Code for editing subtitles \n
+As of now makes subtitles appear on screen for longer
