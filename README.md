@@ -1,5 +1,11 @@
 # subtitles
-Code for fixing subtitles. Can pad to make subtitles appear on screen longer, shift subtitles so they appear at the right time, and shift progressively if they get out of sync as time goes on.
+Code for fixing subtitles. 
+
+Can pad to make subtitles appear on screen longer, 
+
+shift subtitles so they appear at the right time, 
+
+shift progressively if subtitles get out of sync as time goes on.
 
 Choose parameters in config. 
 
