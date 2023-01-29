@@ -1,7 +1,7 @@
 filename=ichi.srt
 shift=0.0
 padding=0.5
-progressive_shifting=1
+progressive_shifting=0
 first_time=00:04:14,687
 second_time=01:43:12,552
 interval_shift=5.0
