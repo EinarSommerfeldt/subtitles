@@ -16,7 +16,7 @@ How to use progressive shifting:
 3. Set progressive_shifting=1
 4. Set shift=0.
 5. Don't change padding from what you used when syncing.
-6. Set time they are synced as first_time in config.
+6. Set time subtitles are synced as first_time in config.
 8. Find another point later when they are out of sync again,
 8. Set second_time = time the correct subtitles appear.
 9. Set interval_shift as how long the subtitles were delayed.
